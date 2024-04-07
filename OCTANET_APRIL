@@ -1,0 +1,65 @@
+<! DOCTYPE html>
+<html lang="en"
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial scale=1.8">
+<title> your landing page<1 file>
+<style>
+Body{
+  font-family: Arial,sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color;#f5f5f5;
+  }
+
+header{
+  Background-color:#333;
+  color: fff;
+  padding: 20px;
+  text-algin: center;
+  }
+
+section{
+  text-align: center;
+  padding: 50px;
+  }
+
+h1{
+  color: white;
+  }
+
+p{
+  color:#666;
+  font-size: 18px;
+  }
+
+fotter{
+  Background-color:#333;
+  color: fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  }
+</style>
+</head>
+<body>
+<header>
+<h1>octanet service Pvt Ltd.</h1>
+</header>
+
+<section>
+<h2>welcome to our landing page!</h2>
+<p>this is a simple landing page.</p>
+<a href="#contact">contact us</a>
+</section>
+
+<fotter>
+& copy;2024 OctaNet service pvt Ltd all rights reserved.
+</fotter>
+</body>
+<>/html 
+
+  
+  
